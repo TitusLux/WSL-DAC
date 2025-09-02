@@ -9,3 +9,7 @@
 # Ignore editor/OS files
 *.swp
 .DS_Store
+
+# Ignore Makefile build outputs
+sim
+waves.vcd
