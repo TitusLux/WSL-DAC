@@ -1,0 +1,11 @@
+# Ignore simulation output
+*.vvp
+*.vcd
+
+# Ignore build artifacts
+*.out
+*.o
+
+# Ignore editor/OS files
+*.swp
+.DS_Store
